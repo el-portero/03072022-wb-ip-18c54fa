@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArchitectInterviewProject": {
+      "commandName": "Project",
+      "commandLineArgs": "http://localhost:5000/ suchs3cr3tz"
+    }
+  }
+}
